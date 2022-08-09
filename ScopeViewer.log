@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  ScopeViewer.cpp
+  ScopeViewerDlg.cpp
+C:\Users\Somewhere\source\repos\ScopeViewer\ScopeViewerDlg.cpp(2690,8): warning C4804: “<=”: 在操作中使用类型“bool”不安全
+  SetDlg.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 838 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ScopeViewer.vcxproj -> C:\Users\Somewhere\source\repos\ScopeViewer\x64\Release\ScopeViewer.exe
