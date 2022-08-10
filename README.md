@@ -1,5 +1,5 @@
 # Picture-Viewer
-基于MFC Opencv
+基于MFC Opencv的图片查看器
 
 
 点击按钮查看图片   设置中存储图片的绝对路径
